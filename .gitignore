@@ -45,3 +45,11 @@ tasks/prettier_conformance/prettier/
 # See also
 # * https://stackoverflow.com/a/7335487
 # * https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files#configuring-ignored-files-for-all-repositories-on-your-computer
+
+# TODO: REMOVE THIS
+# .direnv
+# .envrc
+# default.nix
+# flake.lock
+# flake.nix
+# shell.nix
